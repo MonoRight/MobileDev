@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First lab (Java)</string>
+    <string name="division_text">/</string>
+    <string name="multiply_text">*</string>
+    <string name="minus_text">-</string>
+    <string name="plus_text">+</string>
+    <string name="answer_text">Ответ:</string>
+    <string name="ok_button_text">OK</string>
+    <string name="cancel_button_text">Отмена</string>
+    <string name="second_editText_Hint_text">Введите второе число</string>
+    <string name="first_editText_Hint_text">Введите первое число</string>
+</resources>
